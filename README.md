@@ -1,6 +1,6 @@
 Hi, I’m @robvitz47,
-I’m interested in Go. 
-I’m currently learning Go, and
+I’m interested in Ruby. 
+I’m currently learning Ruby, and
 I’m looking to collaborate on any projects.
 How to reach me robvitz47@gmail.com
 
