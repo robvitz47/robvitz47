@@ -1,4 +1,4 @@
-Hi, I’m @robvitz47,
+Hi, I’m Rob,
 I’m interested in Ruby. 
 I’m currently learning Ruby, and
 I’m looking to collaborate on any projects.
