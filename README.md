@@ -1,8 +1,12 @@
 Hi, I’m Rob,
+
 I’m interested in Ruby. 
+
 I’m currently learning Ruby, and
+
 I’m looking to collaborate on any projects.
-How to reach me robvitz47@gmail.com
+
+How to reach me on discord at Codingwitrob#5620
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvitz47)](https://github.com/anuraghazra/github-readme-stats)
 
