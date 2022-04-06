@@ -1,7 +1,9 @@
 Hi, I’m Rob,
 
 -I’m interested in Ruby
+
 -I’m currently learning Ruby
+
 -I’m looking to collaborate on any Ruby related projects
 
 -How to reach me on discord at Codingwitrob#5620
