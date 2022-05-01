@@ -1,10 +1,10 @@
 Hi, I’m Rob,
 
--I’m interested in Ruby
+-I’m interested in Swift
 
--I’m currently learning Ruby
+-I’m currently learning Swift
 
--I’m looking to collaborate on any Ruby related projects
+-I’m looking to collaborate on any related projects
 
 -How to reach me on discord at Codingwitrob#5620
 
