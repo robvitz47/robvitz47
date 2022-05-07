@@ -1,8 +1,8 @@
 Hi, I’m Rob,
 
--I’m interested in Swift
+-I’m interested in Node.js/Javascript
 
--I’m currently learning Swift
+-I’m currently learning Swift/Node.js
 
 -I’m looking to collaborate on any related projects
 
