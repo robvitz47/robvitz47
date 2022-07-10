@@ -1,9 +1,5 @@
 Hi, I’m Rob,
 
--I’m interested in Node.js/Javascript
-
--I’m currently learning Swift/Node.js
-
 -I’m looking to collaborate on any related projects
 
 -How to reach me on discord at Codingwitrob#5620
