@@ -1,6 +1,10 @@
 Hi, I’m Rob,
 
--I’m looking to collaborate on any related projects
+-I'm currently learning Python, and want to pursue a career involving it.
+
+-I’m looking to collaborate on any related projects.
+
+-Contact me on Discord at NoMitherGaming#5620
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvitz47)](https://github.com/anuraghazra/github-readme-stats)
 
