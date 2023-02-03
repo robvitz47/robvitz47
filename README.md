@@ -1,6 +1,6 @@
 Hi, I’m Rob,
 
--I'm currently learning Python, and want to pursue a career involving it.
+-I'm currently learning Lua, and want to pursue a career involving it.
 
 -I’m looking to collaborate on any related projects.
 
